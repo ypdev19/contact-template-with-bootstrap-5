@@ -78,7 +78,9 @@ body {
 
 .form-title {
 	font-family: 'Roboto', sans-serif;
-	font-size: 25px;
+	font-size: 30px;
+	font-weight: 500;
+	margin: 0;
 	color: #fff;
 	line-height: 1.2;
 	text-align: center;
@@ -88,6 +90,8 @@ body {
 .form-subtitle {
 	font-family: 'Roboto', sans-serif;
 	font-size: 20px;
+	font-weight: 100;
+	margin: 0;
 	color: #fff;
 	line-height: 1.2;
 	text-align: center;
