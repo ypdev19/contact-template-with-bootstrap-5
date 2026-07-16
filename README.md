@@ -3,7 +3,7 @@ A free contact form made with [Bootstrap](https://getbootstrap.com/) to use as y
 
 Some information about this template
 --------------------------------
-- [Bootstrap 5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+- [Bootstrap 5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - Verified by W3C (HTML and CSS)
 - Responsive ([mobile-friendly test](https://search.google.com/test/mobile-friendly/result?id=usk35Aefn4jE4B_EC9HAKQ))
 - Easy to use
