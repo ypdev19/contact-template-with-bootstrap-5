@@ -19,13 +19,13 @@ Demo
 
 Bug Report :bug:
 --------------------------------
-If you found a bug please create an issue [here](https://github.com/ypetrilli/contact-template-with-bootstrap-5/issues) and let's fix it to make this a better template
+If you found a bug please create an issue [here](https://github.com/ypdev19/contact-template-with-bootstrap-5/issues) and let's fix it to make this a better template
 
 Looking for more? Here are other free resources for you!
 --------------------------------
-- [Login form with Bootstrap 5](https://ypetrilli.github.io/login-template-with-bootstrap-5/)
-- [Registration form with Bootstrap 5](https://ypetrilli.github.io/registration-form-with-bootstrap-5/)
-- [Reset password and recover username forms with Bootstrap 5](https://ypetrilli.github.io/reset-password-template-with-bootstrap-5/)
+- [Login form with Bootstrap 5](https://ypdev19.github.io/login-template-with-bootstrap-5/)
+- [Registration form with Bootstrap 5](https://ypdev19.github.io/registration-form-with-bootstrap-5/)
+- [Reset password and recover username forms with Bootstrap 5](https://ypdev19.github.io/reset-password-template-with-bootstrap-5/)
 
 Credits
 --------------------------------
